@@ -10,3 +10,6 @@ def generate_content(text):
         contents=text
     )
     return response.text
+
+
+
